@@ -1,0 +1,6 @@
+24.07.22 03:21:32	Log file was successfully created
+24.07.22 03:21:32	Monitoring start
+24.07.22 03:21:38	Process work: 1 out of 3 minutes
+24.07.22 03:21:44	Process work: 2 out of 3 minutes
+24.07.22 03:21:50	Process work: 3 out of 3 minutes
+24.07.22 03:21:50	Monitoring end

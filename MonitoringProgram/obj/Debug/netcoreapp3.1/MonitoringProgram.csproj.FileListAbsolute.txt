@@ -1,0 +1,14 @@
+C:\Users\rev-i\source\repos\MonitoringProgram\MonitoringProgram\bin\Debug\netcoreapp3.1\MonitoringProgram.exe
+C:\Users\rev-i\source\repos\MonitoringProgram\MonitoringProgram\bin\Debug\netcoreapp3.1\MonitoringProgram.deps.json
+C:\Users\rev-i\source\repos\MonitoringProgram\MonitoringProgram\bin\Debug\netcoreapp3.1\MonitoringProgram.runtimeconfig.json
+C:\Users\rev-i\source\repos\MonitoringProgram\MonitoringProgram\bin\Debug\netcoreapp3.1\MonitoringProgram.runtimeconfig.dev.json
+C:\Users\rev-i\source\repos\MonitoringProgram\MonitoringProgram\bin\Debug\netcoreapp3.1\MonitoringProgram.dll
+C:\Users\rev-i\source\repos\MonitoringProgram\MonitoringProgram\bin\Debug\netcoreapp3.1\MonitoringProgram.pdb
+C:\Users\rev-i\source\repos\MonitoringProgram\MonitoringProgram\obj\Debug\netcoreapp3.1\MonitoringProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rev-i\source\repos\MonitoringProgram\MonitoringProgram\obj\Debug\netcoreapp3.1\MonitoringProgram.AssemblyInfoInputs.cache
+C:\Users\rev-i\source\repos\MonitoringProgram\MonitoringProgram\obj\Debug\netcoreapp3.1\MonitoringProgram.AssemblyInfo.cs
+C:\Users\rev-i\source\repos\MonitoringProgram\MonitoringProgram\obj\Debug\netcoreapp3.1\MonitoringProgram.csproj.CoreCompileInputs.cache
+C:\Users\rev-i\source\repos\MonitoringProgram\MonitoringProgram\obj\Debug\netcoreapp3.1\MonitoringProgram.dll
+C:\Users\rev-i\source\repos\MonitoringProgram\MonitoringProgram\obj\Debug\netcoreapp3.1\MonitoringProgram.pdb
+C:\Users\rev-i\source\repos\MonitoringProgram\MonitoringProgram\obj\Debug\netcoreapp3.1\MonitoringProgram.genruntimeconfig.cache
+C:\Users\rev-i\source\repos\MonitoringProgram\MonitoringProgram\obj\Debug\netcoreapp3.1\MonitoringProgram.csproj.AssemblyReference.cache
